@@ -8,5 +8,5 @@ package com.manongc.hobby.master.entity;
  * @Version 1.0.0
  */
 public class Util {
-
+    private int i;
 }
