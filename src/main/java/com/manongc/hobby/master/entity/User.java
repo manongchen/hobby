@@ -10,6 +10,8 @@ package com.manongc.hobby.master.entity;
 public class User {
 
     private String name;
-    
+
     private String phone;
+
+    private String password;
 }
