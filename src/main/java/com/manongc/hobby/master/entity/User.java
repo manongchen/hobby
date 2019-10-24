@@ -20,6 +20,8 @@ public class User {
     public String getEmail() {
         return email;
     }
+    
+    private int number = 1;
 
     public void setEmail(String email) {
         this.email = email;
