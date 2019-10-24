@@ -17,6 +17,8 @@ public class User {
 
     private String email;
 
+    private int num;
+
     public String getEmail() {
         return email;
     }
