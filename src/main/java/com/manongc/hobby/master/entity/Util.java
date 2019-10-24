@@ -10,6 +10,8 @@ package com.manongc.hobby.master.entity;
 public class Util {
     private int i;
     private int j;
-    
+
+    private int sub;
+
     private int sum;
 }
